@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<StoryPoints>
+   <STP>
+       <STPid>STPX</STPid>
+       <eventName>NULL</eventName>
+       <predecessor>NULL</predecessor>
+       <preconditions>
+            <duration>NULL</duration>
+            <experience>NULL</experience>
+            <gold>NULL</gold>
+            <locations>NULL</locations>
+            <enemies>NULL</enemies>
+            <NPCinteraction>NULL</NPCinteraction>
+            <Tile>NULL</Tile>
+            <ItemAquired>NULL</ItemAquired>
+            <MapInteraction>NULL</MapInteraction>
+            <ProxObject>NULL</ProxObject>
+            <ProxLocation>NULL</ProxObject>
+       </preconditions>
+       <prefunctions>
+            <Teleport>NULL</Teleport>
+            <Journal>NULL</Journal>
+            <Cutscene>NULL</Cutscene>
+            <PlaySound>NULL</PlaySound>
+            <ChangeSoundtrack>NULL</ChangeSoundtrack>
+            <StatusMod>NULL</StatusMod>
+       </prefunctions>
+       <questtype type="find">NULL</questtype>
+       <Status>inactive</Status>
+       <Trigger type="find">NULL</Trigger>
+       <Rewards>
+            <gold>NULL</gold>
+            <xp>NULL</xp>
+            <item>NULL</item>
+            
+       </Rewards>
+       <Victory>
+            <duration>NULL</duration>
+            <experience>NULL</experience>
+            <gold>NULL</gold>
+            <locations>NULL</locations>
+            <enemies>NULL</enemies>
+            <NPCinteraction>NULL</NPCinteraction>
+            <Tile>NULL</Tile>
+            <ItemAquired>NULL</ItemAquired>
+            <MapInteraction>NULL</MapInteraction>
+            <ProxObject>NULL</ProxObject>
+            <ProxLocation>NULL</ProxObject>
+       </Victory>
+       <Cancel>
+            <duration>NULL</duration>
+            <experience>NULL</experience>
+            <gold>NULL</gold>
+            <locations>NULL</locations>
+            <enemies>NULL</enemies>
+            <NPCinteraction>NULL</NPCinteraction>
+            <Tile>NULL</Tile>
+            <ItemAquired>NULL</ItemAquired>
+            <MapInteraction>NULL</MapInteraction>
+            <ProxObject>NULL</ProxObject>
+            <ProxLocation>NULL</ProxObject>       
+       </Cancel>
+       <postfunctions>
+            <Teleport>NULL</Teleport>
+            <Journal>NULL</Journal>
+            <Cutscene>NULL</Cutscene>
+            <PlaySound>NULL</PlaySound>
+            <ChangeSoundtrack>NULL</ChangeSoundtrack>
+            <StatusMod>NULL</StatusMod>
+       </postfunctions>
+   </STP>
+</StoryPoints>

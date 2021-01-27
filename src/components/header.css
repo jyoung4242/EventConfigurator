@@ -1,0 +1,13 @@
+.head {
+  border: 1px solid;
+  border-radius: 2px;
+  border-color: black;
+  height: 7%;
+  width: 100;
+  display: flex;
+}
+
+.head_title {
+  position: relative;
+  left: 5vh;
+}

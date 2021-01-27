@@ -1,0 +1,16 @@
+.listbox-area {
+  border: 1px solid;
+  position: absolute;
+  left: 0;
+  width: 15vw;
+  height: 100%;
+}
+
+#ss_title {
+  font-weight: bold;
+  font: size 24;
+}
+
+ul {
+  list-style-type: none;
+}

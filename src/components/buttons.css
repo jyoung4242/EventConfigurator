@@ -1,0 +1,21 @@
+.buttondiv {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 35%;
+  height: 8%;
+  display: flex;
+  padding-right: 15px;
+}
+
+.headerbutton {
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 100%;
+  margin-left: 3vw;
+  margin-bottom: 2vh;
+  margin-top: 2vh;
+  border-radius: 5px;
+  font-size: 0.5vw;
+}

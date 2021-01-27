@@ -1,0 +1,80 @@
+.conddiv {
+  border: 1px solid;
+  width: 48.65vw;
+}
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding-left: 5px;
+  margin: 0px;
+  width: 100%;
+  height: 30px;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active,
+.accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-out;
+}
+
+h4 {
+  margin: 0;
+  margin-left: 1em;
+  padding: 0;
+}
+
+.majordiv {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: 100;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-out;
+}
+
+.cont--dropdown {
+  background-color: white;
+  max-height: 50vh;
+}
+
+span {
+  display: inline;
+  position: relative;
+  left: 0.5em;
+  top: 0px;
+  font-size: 6;
+}
+
+.statespan {
+  font-weight: bold;
+}
+
+.textinput {
+  position: relative;
+  display: inline;
+  width: 75px;
+  margin-left: 10px;
+  font-size: 8;
+  margin-right: 0.5em;
+}
+
+.minidiv {
+  padding: 5px;
+  width: auto;
+}
